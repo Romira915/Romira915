@@ -8,7 +8,7 @@
 
 ### Team Development
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=jyogi-web&repo=rustknock" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=jyogi-web&repo=rustknock&theme=algolia" />
 </a>
 
 <!--
