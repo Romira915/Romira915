@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Romira915&count_private=true&show_icons=true&theme=algolia" />
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Romira915&count_private=true&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romira915&theme=algolia&layout=compact" />
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romira915&theme=algolia&layout=compact" />
 </a>
 
 <!--
