@@ -6,8 +6,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romira915&theme=algolia&layout=compact" />
 </a>
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Romira915&repo=TD_Game&theme=algolia)
-
 <!--
 **Romira915/Romira915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
