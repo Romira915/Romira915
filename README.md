@@ -7,6 +7,51 @@
 </a>
 
 ### Team Development
+
+#### [ハックツハッカソン \~プテラカップ\~(2022/09/2)]
+
+プロダクトは[こちら](https://games.jyogi.net/)
+
+##### ゲーム用API (担当)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=jyogi-web&repo=ptera-api&theme=algolia" />
+</a>
+
+##### ゲーム紹介LP
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=jyogi-web&repo=ptera-game-lp&theme=algolia" />
+</a>
+
+##### ゲーム
+
+ライセンスの関係によりprivate
+
+#### [ハックツハッカソン \~イクチオカップ\~(2022/06/18)](https://hackz.team/news/1yoTECRZkQ8LrPcqe1RzSG)
+
+プロダクトは[こちら](https://viewer.deathmatv.online/)
+
+##### フロントエンド
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=hackz-hackathon-ichthyo&repo=Oracle-no-oubou-wo-yurusuna-front&theme=algolia" />
+</a>
+
+##### バックエンド
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=hackz-hackathon-ichthyo&repo=Oracle-no-oubou-wo-yurusuna-back&theme=algolia" />
+</a>
+
+##### コンテンツ (担当)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romira915&repo=private-isu-rust&theme=algolia" />
+</a>
+
+#### [SAGA × Azure Hackathon(2022/02/05) Product](https://hackz.connpass.com/event/235831/)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=jyogi-web&repo=rustknock&theme=algolia" />
 </a>
