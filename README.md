@@ -6,6 +6,25 @@
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romira915&theme=algolia&layout=compact" />
 </a>
 
+### Recent Activity
+
+最近更新した public リポジトリ（更新日が新しい順）
+
+| 更新日 | リポジトリ | 言語 | 概要 |
+|---|---|---|---|
+| 2026-07-03 | [blog-romira-dev-leptos](https://github.com/Romira915/blog-romira-dev-leptos) | Rust | blog.romira.dev の Leptos 実装 |
+| 2026-07-02 | [romira-arcadia-ops](https://github.com/Romira915/romira-arcadia-ops) | HCL | 個人環境の IaC |
+| 2026-06-29 | [romira-s-config](https://github.com/Romira915/romira-s-config) | Shell | 設定ファイル集 (dotfiles) |
+| 2026-06-18 | [opencode-obsidian-stack](https://github.com/Romira915/opencode-obsidian-stack) | Shell | - |
+| 2026-04-30 | [astro-cloudflare-sandbox](https://github.com/Romira915/astro-cloudflare-sandbox) | Astro | - |
+| 2026-03-24 | [image-duplication-check](https://github.com/Romira915/image-duplication-check) | Python | - |
+| 2026-03-24 | [easy_init_newrelic_opentelemetry](https://github.com/Romira915/easy_init_newrelic_opentelemetry) | Rust | New Relic / OpenTelemetry 初期化ツール |
+| 2024-12-30 | [romira_service_manage_bot_v2](https://github.com/Romira915/romira_service_manage_bot_v2) | Rust | Discord bot (romira service manage) |
+| 2024-12-16 | [romira-arcadia-ops2](https://github.com/Romira915/romira-arcadia-ops2) | HCL | 個人環境の IaC (旧版) |
+| 2024-12-14 | [rust-axum-newrelic-example](https://github.com/Romira915/rust-axum-newrelic-example) | Rust | - |
+| 2024-09-23 | [Last-Music](https://github.com/Romira915/Last-Music) | Rust | - |
+| 2024-07-31 | [private-isu-rust](https://github.com/Romira915/private-isu-rust) ⭐10 | Rust | private-isu の Rust 実装 |
+
 ### Team Development
 
 #### [ハックツハッカソン \~プテラカップ\~(2022/09/2)]
